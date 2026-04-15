@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/self-love-editorial/", // 🔥 THIS FIXES EVERYTHING
+  base: "/", // 🔥 THIS FIXES EVERYTHING
 
   server: {
     host: "::",

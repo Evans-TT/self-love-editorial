@@ -28,7 +28,7 @@ const SocialSection = () => {
           {images.map((img, i) => (
             <a
               key={i}
-              href="https://instagram.com/selflovecollection_za/"
+              href="https://www.instagram.com/selflovecollection_za/"
               target="_blank"
               rel="noopener noreferrer"
               className="overflow-hidden group"
@@ -43,7 +43,7 @@ const SocialSection = () => {
         </div>
 
         <a
-          href="https://instagram.com/selflovecollection_za/"
+          href="https://www.instagram.com/selflovecollection_za/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block mt-12 font-sans text-xs tracking-[0.2em] uppercase text-primary border-b border-primary/30 pb-1 hover:border-primary transition-colors"
